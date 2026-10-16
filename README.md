@@ -11,7 +11,7 @@ This project contains two minimal JavaFX applications demonstrating the use of J
 
 ## Prerequisites
 
-- JDK 21 or higher
+- JDK 23 or later (JavaFX 25.0.2 `module-info` requires it); the reference build runs on JDK 25, while the pom compiles with release 21
 
 ## Building and Running
 
